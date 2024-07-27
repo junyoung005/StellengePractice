@@ -1,0 +1,32 @@
+.MainIntro {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2%;
+}
+
+.Main-Section1Info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.LoginBox {
+    margin-left: 3%;
+    height: 8%;
+    width: 15%;
+}
+
+.StellengeInfoBox {
+    margin-top: 2%; 
+    margin-right: 15%;
+    margin-left: 12%;
+    width: 38%;
+    
+}
+
+.MainIllust1Box {
+    /*margin-left: 55%;*/ 
+    width: 37%; 
+    margin-right: 5%;
+    align-items: right;
+}
